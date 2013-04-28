@@ -1,4 +1,4 @@
-Haskell
+Words
 =======
 
 Compile: "cabal install"
