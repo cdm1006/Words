@@ -1,0 +1,12 @@
+Point Breakdown!
+
++10 Compiles - Definitely!
++10 Does what I want - Of Course!
++10 Does something Cool - I think so!
++10 Uses higher order functions - Maps on Maps
++10 Uses Cabal -- Used to create package via 'cabal init'
+	       -- Used to create documentation via 'cabal haddock...'
++10 Upload Code -- This one is pretty obvious...
++25 Documened Code -- Done using haddock, created documention as learned in class!
+
+TOTAL = 85pts
